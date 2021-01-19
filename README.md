@@ -17,6 +17,7 @@ These jupyter notebooks content scripts that let us approximate total number of 
 Two jupyter notebook called `Emissions_wrfchemi Exp10.ipynb` and `Emissions_wrfchemi Exp10 October 2018.ipynb` content scripts in Python 3 to analize emissions ready by WRF-Chem and generate Charts used for the Master Dissertation.
 
 ## WRF-Chem model results processing
+Files related to model results processing and evaluation are in `Results Processing`.
 WRF-Chem model outputs are files format (`wrfout_<domain>_{year}-{m}-{d}_{h}:00:0`) that content matrix values for many parameters meteorological and chemical species.
 
 There are scripts and Jupyter Notebooks used to process WRF-Chem outputs:
