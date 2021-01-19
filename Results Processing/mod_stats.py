@@ -271,3 +271,8 @@ def r_pearson_confidence_interval(n, r, alpha):
     r_lower = np.tanh(ci_lower)
     r_upper = np.tanh(ci_upper)
     return (r_lower, r_upper)
+
+
+
+
+
